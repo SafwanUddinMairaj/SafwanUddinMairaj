@@ -82,6 +82,9 @@ https://www.linkedin.com/in/safwanuddinmairaj/
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
   </a>
+  <a href="https://flutterflow.io/" target="_blank">
+  <img src="https://img.shields.io/badge/-FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</a>
 </p>
 
 <!---
