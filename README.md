@@ -1,6 +1,6 @@
-- 👋 Hi, I’m SafwanUddinMairaj , fresh BSCS graduate from SZABIST University.
+- 👋 Hi, I’m SafwanUddinMairaj, fresh BSCS graduate from SZABIST University.
 - 🧑‍💻 I have hands-on experience with the MERN stack, Microsoft Power Platform, and designing user interfaces using Figma.
-- 🌱 I’m currently learning NextJS to enhance my skills further and stay ahead in the ever-evolving field of web development.
+- 🌱 I’m currently learning NextJS with TypeScript to enhance my skills further and stay ahead in the ever-evolving field of web development.
 - 🔭 I’m actively seeking job opportunities in web development and software engineering. Check out my repositories to see my work in action!
 - 📫 How to reach me safwanmairaj15@gmail.com 
 
