@@ -5,7 +5,7 @@ I'm a **Computer Science graduate from SZABIST University** with a passion for *
 ### 🚀 About Me
 - 🎓 Graduated in Computer Science from **SZABIST University**  
 - 💡 Passionate about **technology, innovation, and problem-solving**  
-- 📚 Continuously learning and exploring **modern tools, frameworks, and concepts**  
+- 📚 Continuously learning and exploring **modern tools and concepts**  
 - 🤝 Enjoy working in **collaborative environments**  
 - 🌐 Open to connecting with professionals to **share knowledge, ideas, and opportunities** 
 - 📫 How to reach me: **safwanmairaj15@gmail.com**
