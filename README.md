@@ -1,9 +1,13 @@
-- 👋 Hi, I’m SafwanUddinMairaj, a BSCS graduate from SZABIST University.
-- 🧪 I’m passionate about Software Quality Assurance and have a solid understanding of concepts like manual testing, test case creation, bug life cycle, and SDLC/STLC.
-- 🔍 I’m currently learning different software testing techniques along with the automation tools like Selenium, Cypress.
-- 🛠️ I’ve also worked with **Linux distributions** like CentOS, Kali Linux, and Ubuntu, which has strengthened my system understanding and ability to perform tasks such as basic scripting.
-- 🌱 I'm continuously upskilling in QA methodologies, defect lifecycle, test automation, and Agile processes.
-- 🔭 I’m actively seeking opportunities in **Software Quality Assurance** where I can apply my skills, grow professionally, and contribute to delivering high-quality software.
+# Hi👋
+
+I'm a **Computer Science graduate from SZABIST University** with a passion for **technology and innovation**.  
+
+### 🚀 About Me
+- 🎓 Graduated in Computer Science from **SZABIST University**  
+- 💡 Passionate about **technology, innovation, and problem-solving**  
+- 📚 Continuously learning and exploring **modern tools, frameworks, and concepts**  
+- 🤝 Enjoy working in **collaborative environments**  
+- 🌐 Open to connecting with professionals to **share knowledge, ideas, and opportunities** 
 - 📫 How to reach me: **safwanmairaj15@gmail.com**
 - 💼 Connect with me on LinkedIn:  
   [https://www.linkedin.com/in/safwanuddinmairaj/](https://www.linkedin.com/in/safwanuddinmairaj/)
