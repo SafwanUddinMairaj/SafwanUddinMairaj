@@ -12,6 +12,8 @@ I'm a **Computer Science graduate from SZABIST University** with a passion for *
 - 💼 Connect with me on LinkedIn:  
   [https://www.linkedin.com/in/safwanuddinmairaj/](https://www.linkedin.com/in/safwanuddinmairaj/)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=SafwanUddinMairaj&label=Profile%20Views&color=0e75b6&style=for-the-badge)
