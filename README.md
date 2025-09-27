@@ -14,8 +14,11 @@ I'm a **Computer Science graduate from SZABIST University** with a passion for *
 
 <div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=SafwanUddinMairaj&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SafwanUddinMairaj&theme=onedark&exclude=Stars,Issues,PullRequest,Reviews&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=SafwanUddinMairaj&label=Profile%20views&color=0e75b6&style=flat)
+
+
